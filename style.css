@@ -1,0 +1,21 @@
+.body {
+    background-color: aquamarine;
+    margin: auto;
+}
+
+.title {
+    text-align: center;
+    font-size: 25px;
+}
+
+.pic {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;    
+}
+
+.para {
+    margin-left: 20px;
+    margin-right: 20px;
+}
